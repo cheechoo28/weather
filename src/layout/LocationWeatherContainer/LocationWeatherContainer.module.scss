@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 24px;
+    .subtext {
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 24px;
+        color: var(--gray);
+    }
+}
